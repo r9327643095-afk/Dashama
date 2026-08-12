@@ -1,0 +1,6 @@
+{
+  "name": "દશામા ની વાર્તા",
+  "description": "દશામા વ્રત કથા, ૧૦ દિવસના નિયમો, દસ ગાંઠનો દોરો, આરતી, થાળ, સ્તુતિ અને પવિત્ર મંત્ર",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
